@@ -4,16 +4,16 @@ const theme = createTheme({
   palette: {
     mode: 'light',
     primary: {
-      main: '#FF69B4', // Hot pink
-      light: '#FFB6C1', // Light pink
-      dark: '#DB7093', // Pale violet red
-      contrastText: '#fff',
+      main: '#FFD1DC', // Pastel pink
+      light: '#FFE4E9', // Light pastel pink
+      dark: '#FFB6C1', // Soft pink
+      contrastText: '#2c3e50',
     },
     secondary: {
-      main: '#FF1493', // Deep pink
-      light: '#FF69B4', // Hot pink
-      dark: '#C71585', // Medium violet red
-      contrastText: '#fff',
+      main: '#FFB6C1', // Soft pink
+      light: '#FFE4E9', // Light pastel pink
+      dark: '#FFD1DC', // Pastel pink
+      contrastText: '#2c3e50',
     },
     background: {
       default: '#fff',
@@ -25,72 +25,72 @@ const theme = createTheme({
     },
   },
   typography: {
-    fontFamily: '"Dancing Script", "Roboto", "Helvetica", "Arial", sans-serif',
+    fontFamily: '"Special Elite", "Roboto", "Helvetica", "Arial", sans-serif',
     h1: {
       fontWeight: 700,
       fontSize: '4rem',
       lineHeight: 1.2,
       letterSpacing: '-0.01562em',
-      fontFamily: '"Dancing Script", cursive',
+      fontFamily: '"Apricots", cursive',
     },
     h2: {
       fontWeight: 700,
       fontSize: '3.5rem',
       lineHeight: 1.2,
       letterSpacing: '-0.00833em',
-      fontFamily: '"Dancing Script", cursive',
+      fontFamily: '"Apricots", cursive',
     },
     h3: {
       fontWeight: 700,
       fontSize: '3rem',
       lineHeight: 1.2,
       letterSpacing: '0em',
-      fontFamily: '"Dancing Script", cursive',
+      fontFamily: '"Apricots", cursive',
     },
     h4: {
       fontWeight: 700,
       fontSize: '2.125rem',
       lineHeight: 1.2,
       letterSpacing: '0.00735em',
-      fontFamily: '"Dancing Script", cursive',
+      fontFamily: '"Apricots", cursive',
     },
     h5: {
       fontWeight: 600,
       fontSize: '1.5rem',
       lineHeight: 1.2,
       letterSpacing: '0em',
-      fontFamily: '"Dancing Script", cursive',
+      fontFamily: '"Apricots", cursive',
     },
     h6: {
       fontWeight: 600,
       fontSize: '1.25rem',
       lineHeight: 1.2,
       letterSpacing: '0.0075em',
-      fontFamily: '"Dancing Script", cursive',
+      fontFamily: '"Apricots", cursive',
     },
     subtitle1: {
       fontSize: '1rem',
       lineHeight: 1.75,
       letterSpacing: '0.00938em',
-      fontFamily: '"Dancing Script", cursive',
+      fontFamily: '"Special Elite", cursive',
     },
     subtitle2: {
       fontSize: '0.875rem',
       lineHeight: 1.57,
       letterSpacing: '0.00714em',
-      fontFamily: '"Dancing Script", cursive',
+      fontFamily: '"Special Elite", cursive',
     },
     body1: {
       fontSize: '1rem',
       lineHeight: 1.5,
       letterSpacing: '0.00938em',
-      fontFamily: '"Dancing Script", cursive',
+      fontFamily: '"Special Elite", cursive',
     },
     body2: {
       fontSize: '0.875rem',
       lineHeight: 1.43,
       letterSpacing: '0.01071em',
-      fontFamily: '"Dancing Script", cursive',
+      fontFamily: '"Special Elite", cursive',
     },
     button: {
       fontSize: '0.875rem',
@@ -98,7 +98,7 @@ const theme = createTheme({
       letterSpacing: '0.02857em',
       textTransform: 'none',
       fontWeight: 600,
-      fontFamily: '"Dancing Script", cursive',
+      fontFamily: '"Special Elite", cursive',
     },
   },
   components: {

@@ -54,7 +54,7 @@ const Navbar = () => {
             fontWeight: 'bold',
           }}
         >
-          FundChain
+          UmeedFund
         </Typography>
 
         {isMobile ? (
