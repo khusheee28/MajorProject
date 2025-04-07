@@ -1,0 +1,5 @@
+com/example/blockchainfundraising/repository/CampaignRepository.class
+com/example/blockchainfundraising/controller/CampaignController.class
+com/example/blockchainfundraising/model/Campaign.class
+com/example/blockchainfundraising/BlockchainFundraisingApplication.class
+com/example/blockchainfundraising/service/CampaignService.class
